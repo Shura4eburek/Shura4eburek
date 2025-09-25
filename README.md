@@ -1,4 +1,8 @@
-## Hi there 👋
+# Mamoru
+![Stats](https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&theme=radical)
+[![Mamoru profile views](https://u8views.com/api/v1/github/profiles/69597036/views/day-week-month-total-count.svg)](https://u8views.com/github/Shura4eburek)
+
 
 <!--
 **Shura4eburek/Shura4eburek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
