@@ -13,10 +13,20 @@ AI Prompt Crafter | Automated Coding Enthusiast | Hardware Tinkerer
 ---
 
 ### 📊 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&layout=compact&theme=radical)
+### 📊 My GitHub Stats
 
-[![Mamoru profile views](https://u8views.com/api/v1/github/profiles/69597036/views/day-week-month-total-count.svg)](https://u8views.com/github/Shura4eburek)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&layout=compact&theme=radical" />
+  <br>
+  <a href="https://u8views.com/github/Shura4eburek">
+    <img src="https://u8views.com/api/v1/github/profiles/69597036/views/day-week-month-total-count.svg" />
+  </a>
+  
+</div>
+
 
 ---
 
