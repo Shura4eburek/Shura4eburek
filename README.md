@@ -8,7 +8,7 @@ AI Prompt Crafter | Automated Coding Enthusiast | Hardware Tinkerer
 - 💡 I build solutions using **AI-driven programming and advanced prompts**
 - 🖥️ Focused on troubleshooting PC hardware and network setups
 - 🛠️ Skilled at automating repetitive tasks via creative workflows
-- 🎮 Interested in gaming, AI-generated content, and technology experiments
+- 🎮 Interested in gaming, Technology experiments
 
 ---
 
@@ -24,7 +24,7 @@ AI Prompt Crafter | Automated Coding Enthusiast | Hardware Tinkerer
 - 🤖 **AI-powered development**: Coding via prompt engineering and automation
 - 🖥️ **PC troubleshooting**: Upgrading, diagnostics, and network configuration
 - ⚙️ **Scripting**: PowerShell, Python, batch workflows  
-- 🎨 **AI content creation**: Images, games, and creative experiments
+- 🎨 **AI content creation**: Images and creative experiments
 
 ---
 
