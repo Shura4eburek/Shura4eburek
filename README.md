@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mamoru
+#<div align="center">Hi, I'm Mamoru</div>
 
 
 <p align="center">
