@@ -1,20 +1,36 @@
-# Mamoru
-![Stats](https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&theme=radical)
+# 👋 Hi, I'm Mamoru
+
+AI Prompt Crafter | Automated Coding Enthusiast | Hardware Tinkerer
+
+---
+
+### 🚀 About Me
+- 💡 I build solutions using **AI-driven programming and advanced prompts**
+- 🖥️ Focused on troubleshooting PC hardware and network setups
+- 🛠️ Skilled at automating repetitive tasks via creative workflows
+- 🎮 Interested in gaming, AI-generated content, and technology experiments
+
+---
+
+### 📊 My GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&layout=compact&theme=radical)
+
 [![Mamoru profile views](https://u8views.com/api/v1/github/profiles/69597036/views/day-week-month-total-count.svg)](https://u8views.com/github/Shura4eburek)
 
+---
 
-<!--
-**Shura4eburek/Shura4eburek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Tools & Skills
+- 🤖 **AI-powered development**: Coding via prompt engineering and automation
+- 🖥️ **PC troubleshooting**: Upgrading, diagnostics, and network configuration
+- ⚙️ **Scripting**: PowerShell, Python, batch workflows  
+- 🎨 **AI content creation**: Images, games, and creative experiments
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact & Links
+- Telegram: [@Mamoru](https://t.me/)
+- GitHub: [Shura4eburek](https://github.com/Shura4eburek)
+
+---
+⭐️ _Like my work? Check out my repositories or star a project!_
