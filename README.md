@@ -20,10 +20,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical" />
 </div>
 
+---
+
 <div align="center">
   <h3 align="center">Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&layout=compact&theme=radical" />
 </div>
+
+---
 
 <div align="center">
   <h3 align="center">Profile Views</h3>
