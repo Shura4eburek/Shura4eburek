@@ -1,4 +1,4 @@
-#<div align="center">Hi, I'm Mamoru</div>
+#Hi, I'm Mamoru
 
 
 <p align="center">
