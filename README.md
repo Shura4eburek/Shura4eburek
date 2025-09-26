@@ -1,4 +1,4 @@
-#Hi, I'm Mamoru
+# Hi, I'm Mamoru
 
 
 <p align="center">
@@ -7,15 +7,15 @@
 
 ---
 
-### 🚀 About Me
-- 💡 I build solutions using **AI-driven programming and advanced prompts**
-- 🖥️ Focused on troubleshooting PC hardware and network setups
-- 🛠️ Skilled at automating repetitive tasks via creative workflows
-- 🎮 Interested in gaming, Technology experiments
+### About Me
+-  I build solutions using **AI-driven programming and advanced prompts**
+-  Focused on troubleshooting PC hardware and network setups
+-  Skilled at automating repetitive tasks via creative workflows
+-  Interested in gaming, Technology experiments
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <div align="center">
 
@@ -32,15 +32,15 @@
 
 ---
 
-### 🧠 Tools & Skills
-- 🤖 **AI-powered development**: Coding via prompt engineering and automation
-- 🖥️ **PC troubleshooting**: Upgrading, diagnostics, and network configuration
-- ⚙️ **Scripting**: PowerShell, Python, batch workflows  
-- 🎨 **AI content creation**: Images and creative experiments
+### Tools & Skills
+-  **AI-powered development**: Coding via prompt engineering and automation
+-  **PC troubleshooting**: Upgrading, diagnostics, and network configuration
+-  **Scripting**: PowerShell, Python, batch workflows  
+-  **AI content creation**: Images and creative experiments
 
 ---
 
-### 📫 Contact & Links
+### Contact & Links
 - Telegram: [@Mamoru](https://t.me/)
 - GitHub: [Shura4eburek](https://github.com/Shura4eburek)
 
