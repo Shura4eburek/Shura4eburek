@@ -13,7 +13,6 @@ AI Prompt Crafter | Automated Coding Enthusiast | Hardware Tinkerer
 ---
 
 ### 📊 My GitHub Stats
-### 📊 My GitHub Stats
 
 <div align="center">
 
