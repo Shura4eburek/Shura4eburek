@@ -15,20 +15,22 @@
 
 ---
 
-### My GitHub Stats
+<div align="center">
+  <h3 align="center">GitHub Profile Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical" />
+</div>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&theme=radical" />
-  <br>
+  <h3 align="center">Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&layout=compact&theme=radical" />
-  <br>
+</div>
+
+<div align="center">
+  <h3 align="center">Profile Views</h3>
   <a href="https://u8views.com/github/Shura4eburek">
     <img src="https://u8views.com/api/v1/github/profiles/69597036/views/day-week-month-total-count.svg" />
   </a>
-  
 </div>
-
 
 ---
 
