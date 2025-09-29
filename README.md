@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=34BFFF&center=true&width=600&lines=AI+Prompt+Crafter;Automated+Coding+Enthusiast;Hardware+Tinkerer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=900&color=34BFFF&center=true&width=600&lines=AI+Prompt+Crafter;Automated+Coding+Enthusiast;Hardware+Tinkerer" />
 </p>
 
 ---
