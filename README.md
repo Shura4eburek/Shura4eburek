@@ -1,9 +1,7 @@
 # Hi, I'm Mamoru
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=34BFFF&center=true&width=600&lines=AI+Prompt+Crafter;Automated+Coding+Enthusiast;Hardware+Tinkerer" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Prompt+Crafter;Automated+Coding+Enthusiast;Hardware+Tinkerer)](https://git.io/typing-svg)
 
 ---
 
