@@ -1,4 +1,4 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/b7292d32-ca06-41cf-8ee2-0d850e35e565" /># Hi, I'm Mamoru
+# Hi, I'm Mamoru
 ---
 
 <p align="center">
