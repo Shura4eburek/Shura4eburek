@@ -136,8 +136,7 @@ I write everything through AI agents — Claude Code daily. A year in, the thing
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shura4eburek&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=3178C6&icon_color=3178C6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shura4eburek&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=3178C6" />
+  <img src="https://streak-stats.demolab.com?user=Shura4eburek&hide_border=true&background=00000000&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideLabels=808080&dates=808080" alt="GitHub streak" />
 </p>
 
 ---
