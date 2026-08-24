@@ -133,10 +133,12 @@ I write everything through AI agents — Claude Code daily. A year in, the thing
 
 ---
 
-## Stats
+## By the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shura4eburek&hide_border=true&background=00000000&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideLabels=808080&dates=808080" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/tests%20written-1%2C700%2B-3178C6?style=for-the-badge" alt="1700+ tests" />
+  <img src="https://img.shields.io/badge/in%20production-3%20products-2ea44f?style=for-the-badge" alt="3 products in production" />
+  <img src="https://img.shields.io/badge/main%20project-~1%2C700%20commits-8957e5?style=for-the-badge" alt="1700 commits" />
 </p>
 
 ---
